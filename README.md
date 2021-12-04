@@ -1,2 +1,2 @@
 
-![alt text](chrome-capture.gif)
+![alt text](https://picsum.photos/200/300)
