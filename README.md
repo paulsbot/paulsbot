@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="450" src="welcome2.png" />
+  <img width="400" src="welcome2.png" />
 </p>
 
 
